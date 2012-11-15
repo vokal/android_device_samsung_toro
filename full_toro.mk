@@ -42,5 +42,5 @@ $(call inherit-product, device/samsung/toro/device_vzw.mk)
 PRODUCT_NAME := full_toro
 PRODUCT_DEVICE := toro
 PRODUCT_BRAND := Android
-PRODUCT_MODEL := Hotdog VZW Galaxy Nexus
+PRODUCT_MODEL := HotdogROM Galaxy Nexus
 PRODUCT_RESTRICT_VENDOR_FILES := true
