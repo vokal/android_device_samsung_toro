@@ -41,6 +41,6 @@ $(call inherit-product, device/samsung/toro/device_vzw.mk)
 # Set those variables here to overwrite the inherited values.
 PRODUCT_NAME := full_toro
 PRODUCT_DEVICE := toro
-PRODUCT_BRAND := Android
-PRODUCT_MODEL := HotdogROM Galaxy Nexus
+PRODUCT_BRAND := google
+PRODUCT_MODEL := Galaxy Nexus
 PRODUCT_RESTRICT_VENDOR_FILES := true
